@@ -1,4 +1,4 @@
-# ESG & Social Exploratory Data Analysis
+# ESG Exploratory Data Analysis
 
 ## 🌍 Overview
 This repository contains a collection of R-based data analysis projects focusing on environmental health and social policy indicators. The scripts demonstrate a complete analytical workflow—from data cleaning and exploratory data analysis (EDA) to hypothesis testing and predictive modelling.
@@ -16,3 +16,7 @@ This repository contains a collection of R-based data analysis projects focusing
 ### 3. Social Policy Attitude Survey: Smoking Ban
 * **Context:** Analysing public response to a potential Scottish Smoking Ban based on demographic factors like gender and smoking habit.
 * **Key Statistical Methods:** Data wrangling, Frequency Tables and Bar Plots, Chi-Square Tests, and Pearson's/Kendall's Correlation.
+
+### 4. Corporate Governance & Employee Sentiment
+* **Context:** Evaluating the relationship between employee outlook (sentiment) and performance metrics to inform corporate HR strategies.
+* **Key Statistical Methods:** Contingency table generation, expected frequency evaluations, target demographic proportion calculations, and Chi-Square hypothesis testing.
