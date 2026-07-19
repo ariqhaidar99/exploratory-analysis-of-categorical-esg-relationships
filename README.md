@@ -1,4 +1,4 @@
-# My ESG Exploratory Data Analysis
+# ESG & Social Data Exploration and Analysis in R
 
 ## 🌍 Overview
 This repository contains a collection of R-based data analysis projects focusing on environmental health and social policy indicators. The scripts demonstrate a complete analytical workflow—from data cleaning and exploratory data analysis (EDA) to hypothesis testing and predictive modelling.
